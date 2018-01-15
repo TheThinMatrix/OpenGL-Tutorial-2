@@ -7,5 +7,6 @@ In this tutorial we look at loading model data into a VAO and rendering it to th
 
 This tutorial covers:
 
--Loading geometry data into VAOs/VBOs
--Rendering geometry using VAO
+-Loading geometry data into VAOs/VBOs.
+
+-Rendering geometry using VAO.
